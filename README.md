@@ -8,8 +8,7 @@
 <a href="https://www.hackerearth.com/@ayush0402" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@ayush0402" height="27" width="" /></a>
 
 </p>
-<h4>I am a Competitive Programmer and an Android Developer, constantly working to get better.</h4>
-
+I am a Competitive Programmer and an Android Developer, constantly working to get better.
 
 
 <h3>Languages and Tools:</h3>
@@ -19,6 +18,8 @@
 <code><img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.png"></code>
 <code><img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
 
 <h3>GitHub Stats:</h3>
  <a href="https://github.com/ayush0402">
