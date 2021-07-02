@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2 >Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Ayush Kumar! </h2>
 
-<!--
-**ayush0402/ayush0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p >
+<a href="https://www.linkedin.com/in/ayush-kumar-a28544201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-kumar-a28544201/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/aye.you.sshh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aye.you.sshh" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/ayush0402" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="ayush0402" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/ayush0402" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="ayush0402" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@ayush0402" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@ayush0402" height="27" width="" /></a>
 
-Here are some ideas to get you started:
+</p>
+<h4>I am a Competitive Programmer and an Android Developer, constantly working to get better.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3>Languages and Tools:</h3>
+
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.png"></code>
+<code><img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+
+<h3>GitHub Stats:</h3>
+ <a href="https://github.com/ayush0402">
+  <img align="left"  width="460px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0402&show_icons=true&theme=radical)"/>
+</a>
+ <a href="https://github.com/ayush0402">
+  <img align="right" width="460px" src="https://github-readme-stats.vercel.app/api?username=ayush0402&show_icons=true&theme=radical)"/>
+</a>
+
+
+
+
+
+
