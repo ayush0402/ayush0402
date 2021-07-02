@@ -8,7 +8,7 @@
 <a href="https://www.hackerearth.com/@ayush0402" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@ayush0402" height="27" width="" /></a>
 
 </p>
-I am a Competitive Programmer and an Android Developer, constantly working to get better.
+I am a Competitive Programmer and an Android Development Enthusiast, constantly working to get better.
 
 
 <h3>Languages and Tools:</h3>
