@@ -24,10 +24,10 @@ I am a Competitive Programmer and an Android Development Enthusiast, constantly 
 
 <h3>GitHub Stats:</h3>
  <a href="https://github.com/ayush0402">
-  <img align="left"  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0402&show_icons=true&theme=radical)"/>
+  <img align="left"  width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0402&show_icons=true&theme=radical)"/>
 </a>
  <a href="https://github.com/ayush0402">
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=ayush0402&show_icons=true&theme=radical)"/>
+  <img align="right" width="380px" src="https://github-readme-stats.vercel.app/api?username=ayush0402&show_icons=true&theme=radical)"/>
 </a>
 
 
