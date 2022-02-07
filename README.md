@@ -1,5 +1,7 @@
 <h2 >Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Ayush Kumar! </h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+ayush0402.*)](https://git.io/typing-svg)
+
 <p >
 <a href="https://www.linkedin.com/in/ayush-kumar-a28544201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-kumar-a28544201/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/aye.you.sshh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aye.you.sshh" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
