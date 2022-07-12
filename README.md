@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+ayush0402.*)](https://git.io/typing-svg)
 
-<p >
-Connect with me @ LinkedIn: <a href="https://www.linkedin.com/in/ayush-kumar-a28544201/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-kumar-a28544201/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+[![Twitter: Ayush Kumar](https://img.shields.io/twitter/follow/aye_you_sshh?style=social)](https://twitter.com/aye_you_sshh)
+[![Linkedin: Ayush Kumar](https://img.shields.io/badge/-AyushKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-kumar-a28544201//)](https://www.linkedin.com/in/ayush-kumar-a28544201/)
+[![GitHub Ayush Kumar](https://img.shields.io/github/followers/ayush0402?label=follow&style=social)](https://github.com/ayush0402)
 
-</p>
 I like contributing to open-source, building android apps and solving algorithmic problems.
 
 
