@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+ayush0402.*)](https://git.io/typing-svg)
 
-[![Twitter: Ayush Kumar](https://img.shields.io/twitter/follow/aye_you_sshh?style=social)](https://twitter.com/aye_you_sshh)
-[![Linkedin: Ayush Kumar](https://img.shields.io/badge/-AyushKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-kumar-a28544201//)](https://www.linkedin.com/in/ayush-kumar-a28544201/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vigorous)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ayush0402/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-a28544201/)
 [![GitHub Ayush Kumar](https://img.shields.io/github/followers/ayush0402?label=follow&style=social)](https://github.com/ayush0402)
 
 I like contributing to open-source, building android apps and solving algorithmic problems.
