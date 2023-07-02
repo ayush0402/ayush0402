@@ -23,17 +23,3 @@ I like contributing to open-source, building innovative tools and solving algori
 <code><img width="50px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-
-<h3>GitHub Stats:</h3>
- <a href="https://github.com/ayush0402">
-  <img align="left"  width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0402&show_icons=true&theme=radical)"/>
-</a>
- <a href="https://github.com/ayush0402">
-  <img align="right" width="380px" src="https://github-readme-stats.vercel.app/api?username=ayush0402&show_icons=true&theme=radical)"/>
-</a>
-
-
-
-
-
-
